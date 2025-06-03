@@ -3,7 +3,7 @@
 An end-to-end machine learning project that predicts customer churn for a telecom company using logistic regression and Streamlit. This project involves data preprocessing, feature engineering, model building, evaluation, and deployment using an interactive web application.
 
 
-**Live App**: [Streamlit Demo](https://your-streamlit-link)  
+**Live App**: [Streamlit Demo](https://telco-customer-churn-prediction-app-jhebpmmuizyzweryuxd4aa.streamlit.app/)
 **Dataset**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 
